@@ -1,2 +1,2 @@
 console.log("conifg,js");
-console.log("version3");
+console.log("version1");
